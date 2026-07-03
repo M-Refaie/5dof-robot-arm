@@ -1,0 +1,11 @@
+slprj/
+*_ert_rtw/
+*.o
+*.d
+*.elf
+*.bin
+*.map
+*.slxc
+*.asv
+*.STEP
+*.mat
